@@ -1,3 +1,3 @@
 # Hello Friend
 
-https://mykebrian.github.io/
+[mykebrian.github.io] (https://mykebrian.github.io/)
